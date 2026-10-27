@@ -1,0 +1,17 @@
+# Directories
+.vs/
+.git/
+Binaries/
+
+# Files
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
+*.log
+IceKeyHelper.h
+IceKeyHelper.cpp
+Makefile
+
+# Exclude
+!Vendor/Binaries
